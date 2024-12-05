@@ -1,21 +1,15 @@
+
 h1{
-    color:blue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: x-large;
-}
-h2{
-    color: brown;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: xx-large;
+    color: black;
+    font-size: larger;
+    text-align: center;
+
 }
 span{
     color: black;
-    font-size: xx-large;
+    font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-color: yellowgreen;
-}
-p{
-    color: aqua;
+    background-color: rgb(50, 86, 205);
 }
